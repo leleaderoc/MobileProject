@@ -23,3 +23,12 @@ Methods:
 -private void PrepareChart(): prepare the chart in case index of one of the list boxes is changed.
 
 Input csv file must be activity recognition output of the AR Service
+
+------------------------------
+Second Version:
+-Node class: for constructing the decision tree
+-LocationData: class for location data groups
+-PrepareDecisionTree method
+-IsAttack: decide if a row is attack or not
+-TestUnlabeledData: Examines the unlabeled data with location groups
+
